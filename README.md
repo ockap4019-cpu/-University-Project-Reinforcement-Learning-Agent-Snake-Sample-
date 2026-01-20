@@ -1,4 +1,5 @@
 🐍 Reinforcement Learning Snake Agent
+
 University Project — Deep Reinforcement Learning applied to Snake
 
 This repository contains a Reinforcement Learning agent trained to play the classic Snake game using Deep Q‑Learning. The project includes the game environment, the neural network model, training logs, performance metrics, and visualizations.
@@ -26,13 +27,17 @@ Reward shaping based on survival and food collection
 Iterative training with performance tracking
 
 📁 Repository Structure
+
 Code
+
 CODE/                 # Main source code for the agent and environment
 CSV/                  # Training results and numerical logs
 PNG/                  # Performance plots and visualizations
 Logs all parts..docx  # Project notes and analysis
 arial.ttf             # Font used for rendering the game
+
 📊 Results
+
 The project includes:
 
 Reward evolution plots
@@ -44,6 +49,7 @@ Stability and convergence metrics
 Visual evidence of agent improvement over time
 
 ▶️ Running the Project
+
 Clone the repository:
 
 Code
